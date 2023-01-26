@@ -36,7 +36,9 @@
     "react": "> 16"
   },
   "devDependencies": {
-    "antd": "^4.16.10",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "antd": "^5.0.4",
     "cross-env": "^7.0.2",
     "eslint": "^7.13.0",
     "eslint-config-prettier": "^6.15.0",
